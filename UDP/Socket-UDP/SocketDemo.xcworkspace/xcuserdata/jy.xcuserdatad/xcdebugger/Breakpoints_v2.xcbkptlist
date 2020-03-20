@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F61DDF5E-52FE-4AD8-999E-81FE64AAEE22"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0284C80-329F-4A61-9A57-0BDB44275957"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketDemoiOS/SocketDemoiOS/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "des_port"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F0284C80-329F-4A61-9A57-0BDB44275957 - 63da555f531e2391"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController recvTextView]"
+                  moduleName = "SocketDemoiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jy/Documents/Socket-UDP/SocketDemoiOS/SocketDemoiOS/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F0284C80-329F-4A61-9A57-0BDB44275957 - 1db05af558870f6f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController setRecvTextView:]"
+                  moduleName = "SocketDemoiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jy/Documents/Socket-UDP/SocketDemoiOS/SocketDemoiOS/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
